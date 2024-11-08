@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: zero-log-logback
+logging:
+    config: classpath:logback-spring.xml
